@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.1.0] - 2025-11-11
+## [v0.1.0] - 2025-11-11
 ### Added
 - Initial release of the `terraform-azurerm-azuread-user` module.
 - Supports creating Azure Entra ID (Azure AD) users using a map of users.
